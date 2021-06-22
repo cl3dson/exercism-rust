@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/nth-prime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nth-prime/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/raindrops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/raindrops/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/raindrops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nth-prime/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
